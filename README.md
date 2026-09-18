@@ -4,7 +4,7 @@
 
 ### Production-Grade Restaurant & Food Ordering Management Platform
 
-A full-stack, real-time food ordering system built with **Go**, **Next.js 16**, and **Tailwind CSS v4** — featuring role-based workflows, live dashboard streaming, multi-format reporting, and PWA support.
+A full-stack, real-time food ordering system built with **Go**, **Next.js 16.3.5**, and **Tailwind CSS v4.3.3** — featuring role-based workflows, live dashboard streaming, multi-format reporting, and PWA support.
 
 ![Go](https://img.shields.io/badge/Go-1.27.1-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-1.11-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
@@ -458,34 +458,38 @@ Frontend will be available at **http://localhost:3000**.
 ## 📸 Screenshots
 
 ### 📊 Dashboard — Real-Time Multi-Status Grid
-<img width="1900" alt="Dashboard" src="https://github.com/user-attachments/assets/YOUR-DASHBOARD-IMAGE" />
-
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/34f342ce-7937-43db-8db4-b9e33d584dd0" />
 > Live monitoring with 3 columns (Waiting / Processing / Done) and SSE-powered realtime updates.
 
-### 🔐 Login Modal
-<img width="900" alt="Login" src="https://github.com/user-attachments/assets/YOUR-LOGIN-IMAGE" />
-
-### 🛒 Order Creation — Multi-Category Cart
-<img width="1900" alt="Order form" src="https://github.com/user-attachments/assets/YOUR-ORDER-FORM-IMAGE" />
-
-### 🍽 Menu Management
-<img width="1900" alt="Menus" src="https://github.com/user-attachments/assets/YOUR-MENUS-IMAGE" />
-
-### 📈 Reports & Analytics
-<img width="1900" alt="Reports" src="https://github.com/user-attachments/assets/YOUR-REPORTS-IMAGE" />
+### 🔐 Login
+<img width="1918" height="891" alt="image" src="https://github.com/user-attachments/assets/c3883151-2dcd-4ad3-a852-f856dd494618" />
 
 ### 👥 User Management with RBAC
-<img width="1900" alt="Users" src="https://github.com/user-attachments/assets/YOUR-USERS-IMAGE" />
+<img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/4ddcc466-db28-4c0b-b6f8-b0e1adb908a7" />
+
+### 🍽 Menu Management
+<img width="1909" height="957" alt="image" src="https://github.com/user-attachments/assets/5cbb5e03-2cd6-4711-b720-e1ced17ca541" />
+<img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/f340d956-8505-4a37-b788-2977ef872966" />
+
+### 🛒 Order Creation — Multi-Category Cart
+<img width="1893" height="981" alt="image" src="https://github.com/user-attachments/assets/287d1455-9fc9-4273-a329-d695e6ce37d9" />
+<img width="1900" height="1014" alt="image" src="https://github.com/user-attachments/assets/517acec1-d85f-4524-b266-f1fa42ca203c" />
+<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/2f7fd308-b948-47d2-8866-774001d8df6c" />
+
+### 📈 Reports & Analytics
+<img width="1909" height="933" alt="image" src="https://github.com/user-attachments/assets/4c05d77f-6a34-46f4-a35b-377ef5996888" />
+<img width="1854" height="949" alt="image" src="https://github.com/user-attachments/assets/9d8d88a6-42c6-43d9-9ef9-8ea2605311ff" />
+<img width="1914" height="928" alt="image" src="https://github.com/user-attachments/assets/88226aea-955f-4acb-89cb-50b4931f48ec" />
 
 <details>
 <summary><b>🖥️ Local Run Screenshots (Backend & Frontend)</b></summary>
 <br>
 
 **Backend (Go)**
-<img width="1338" alt="Backend running" src="https://github.com/user-attachments/assets/YOUR-BACKEND-IMAGE" />
+<img width="1396" height="1002" alt="image" src="https://github.com/user-attachments/assets/758ca7e3-7e74-41bb-9876-dd12f77fd879" />
 
 **Frontend (Next.js)**
-<img width="1168" alt="Frontend running" src="https://github.com/user-attachments/assets/YOUR-FRONTEND-IMAGE" />
+<img width="1153" height="364" alt="image" src="https://github.com/user-attachments/assets/f6b93b6b-b295-41f1-9105-a512f7888a2c" />
 
 </details>
 
@@ -548,16 +552,15 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Eben Nezer Manurung**
 Full Stack Developer • Backend Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EbenEzerManurung)
+
 
 ⭐ **If this project helped you, please consider giving it a star!**
 
-*Built with ❤️ using Go 1.27, Next.js 16, Tailwind v4.3.3, and MySQL 8.4*
+*Built with ❤️ using Go 1.27, Next.js 16.3.5, Tailwind v4.3.3, and MySQL 8.4*
 
 </div>
 
