@@ -28,7 +28,7 @@ A full-stack, real-time food ordering system built with **Go**, **Next.js 16.3.5
 
 **FoodOrder** is a production-grade, full-stack food ordering and restaurant management platform designed to replace manual cashier operations with a modern, real-time, fully digital workflow.
 
-Built with a **Go (Gin)** backend and a **Next.js 16 + React 19** frontend, FoodOrder delivers an end-to-end solution covering the entire food service lifecycle — from real-time order monitoring on a public dashboard, to cashier-driven ordering, multi-role status management, and analytical reporting with Excel/PDF exports.
+Built with a **Go (Gin)** backend and a **Next.js 16.3.5 + React 19** frontend, FoodOrder delivers an end-to-end solution covering the entire food service lifecycle — from real-time order monitoring on a public dashboard, to cashier-driven ordering, multi-role status management, and analytical reporting with Excel/PDF exports.
 
 The system demonstrates a real-world, enterprise-style implementation of:
 
